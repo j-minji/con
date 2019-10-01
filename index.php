@@ -1,1 +1,1 @@
-<?php header(Location:/dfdf.html');?>
+<?php.header('Location:/dfdf.html');?>
